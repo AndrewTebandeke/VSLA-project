@@ -1,0 +1,1 @@
+A simple banking system that allows one to deposit, withdraw and check balance on their membership account. At the start one has to input his or her name and a four digit membership number before he or She is allowed to proceed with using the system. The System notifies you if you make mistakes with Entries and gives you an opportunity to restart and correct the errors. 
